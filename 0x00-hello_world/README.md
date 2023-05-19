@@ -4,3 +4,4 @@ Script that compiles file without linking
 Script that generates assembly code
 Script that generates executable file
 Script that prints a c program
+A C program output with printf
