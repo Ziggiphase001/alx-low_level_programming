@@ -10,3 +10,4 @@ C program to prints last digit of a number
 C program shows all minute of jack bauer
 C program prints 9 timestable
 C program adds two numbers
+C program prints n timestable
