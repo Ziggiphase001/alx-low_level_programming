@@ -5,3 +5,4 @@ C program prints alphabets ten times
 C program checks for lowercase letters
 C program checks for letters
 C program shows sign of a number
+C program to give absolute value
