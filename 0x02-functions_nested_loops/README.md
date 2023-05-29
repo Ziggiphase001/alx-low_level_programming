@@ -6,3 +6,4 @@ C program checks for lowercase letters
 C program checks for letters
 C program shows sign of a number
 C program to give absolute value
+C program to prints last digit of a number
