@@ -10,3 +10,4 @@ C program prints half of a string
 C program n elements of an array followed by a new line
 C program using strcpy
 C program converts string to integer
+C program generate random valid password
